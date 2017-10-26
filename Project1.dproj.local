@@ -1,26 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.154,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Project1.dproj=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.030,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.660,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.733,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uCommon.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uBlock.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.553,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uTail.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.539,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit1.pas=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.701,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.217,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uOutput.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.198,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uTail.pas=</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.601,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uTail.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uTail.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uCommon.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Project1.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.907,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uTransaction.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.904,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uTransaction.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.539,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit1.dfm=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.015,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uTransaction.pas=</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.331,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uTransaction.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.310,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
-    <Transaction>2017.10.23 23:06:38.077,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
-    <Transaction>2017.10.23 23:06:54.075,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uInput.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
-    <Transaction>2017.10.24 19:09:38.571,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
-    <Transaction>2017.10.24 19:10:03.217,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uOutput.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
-    <Transaction>2017.10.24 20:30:41.037,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
-    <Transaction>2017.10.24 20:30:50.821,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uBlock.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.077,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uInput.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>2017.10.26 22:16:55.461,=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
+    <Transaction>2017.10.26 22:17:05.080,C:\PROJECTS\Delphi\BaumankaCoin-Delphi\uBlockchain.pas=C:\PROJECTS\Delphi\BaumankaCoin-Delphi\Unit2.pas</Transaction>
   </Transactions>
 </BorlandProject>

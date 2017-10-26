@@ -8,7 +8,8 @@ uses
   uCommon in 'uCommon.pas',
   uInput in 'uInput.pas',
   uOutput in 'uOutput.pas',
-  uBlock in 'uBlock.pas';
+  uBlock in 'uBlock.pas',
+  uBlockchain in 'uBlockchain.pas';
 
 {$R *.res}
 

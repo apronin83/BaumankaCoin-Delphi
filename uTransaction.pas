@@ -16,8 +16,9 @@ type
     tails: TList<TTail>;
     pubKey: TVector8;    //  = std::vector<uint8_t>(279, 0);
     signature: TVector8; //  = std::vector<uint8_t>(64, 0);
-    class var availibleTxes: TList<TAddedOutput>;
   public
+    class var availibleTxes: TList<TAddedOutput>;
+
     constructor Create(pubKey: TVector8);
 
     function getBroadcastData: TVector8;

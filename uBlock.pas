@@ -31,7 +31,7 @@ type
     function addFirstTxe(address: TSecureVector): Boolean;
     function addTransaction(num: LOngWord): Boolean;
     procedure setPrevBlock(data: TVector8);
-    procedure setMerkleRoot;
+    function setMerkleRoot: Boolean;
     procedure broadcastBlock;
     function scanBroadcastedData(data: TVector8; position: LongWord): Boolean;
     procedure setNumber(num: LongWord);
@@ -180,7 +180,7 @@ begin
 end;
 
 {+/-}
-procedure TBlock.setMerkleRoot;
+function TBlock.setMerkleRoot: Boolean;
 var
   i: LongWord;
   tempData: TSecureVector;
